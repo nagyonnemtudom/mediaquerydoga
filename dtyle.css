@@ -1,0 +1,39 @@
+#header{
+    font-size: medium;
+    background-color: #b588e7;
+    margin: auto;
+    padding: 25px;
+}
+#footer{
+    background-color: #b588e7;
+    margin: auto;
+    padding: 20px;
+}
+#sidebar{
+    background-color: #e3b957; 
+    width: 150px;
+    height: 220px;
+}
+#widged{
+    background-color: #eb867c;
+    flex-direction: column;
+    
+}
+#statistics{
+    background-color: #91b7e8;
+    flex-direction: column;
+    
+}
+#main{
+    background-color: #a7dc8a;
+    
+}
+#container{ 
+    margin: 0 auto;
+    border: 3px solid black;
+    text-align: center;
+    height: 400px;
+    width: 600px;
+
+    
+}
